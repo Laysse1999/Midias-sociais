@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(126, 112, 112);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#lista{
+    display:inline-flex;
+}
